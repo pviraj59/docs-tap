@@ -6,7 +6,7 @@ docs.vmware.com is built.
 - [Tanzu Application Platform v1.3](overview.md)
   - [About Tanzu Application Platform components and profiles](about-package-profiles.md)
 - [Release notes](release-notes.md)
-- [Release notes test](release-note-test.md)
+- [Release notes test](release-notes-test.md)
 - [Installing Tanzu Application Platform](install-intro.md)
   - [Installation overview](install-intro.md)
   - [Prerequisites](prerequisites.md)
