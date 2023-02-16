@@ -28,7 +28,7 @@ The source-template creates one of three objects, either:
 #### GitRepository
 
 `GitRepository` makes source code from a particular commit available as a tarball in the
-cluster. Other resources in the supply chain can then access that code. 
+cluster. Other resources in the supply chain can then access that code.
 
 ##### Parameters
 
@@ -927,7 +927,7 @@ enriches the input with ResourceClaims and ServiceBindings if the workload conta
 ### More Information
 
 For an example, see
-[`--service-ref`](../cli-plugins/apps/command-reference/workload_create_update_apply.hbs.md#apply-service-ref)
+[`--service-ref`](../cli-plugins/apps/command-reference/commands-details/workload_create_update_apply.hbs.md#apply-service-ref)
 in the Tanzu CLI documentation.
 
 For an overview of the function, see
