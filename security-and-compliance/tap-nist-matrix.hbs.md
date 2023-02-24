@@ -11,22 +11,7 @@ or otherwise addressed.
 The initial iteration of this assessment delineates responsible parties.
 Incremental updates will add more details about implementation and updates to 800-53 Revision 5.
 
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 20%;
-}
-table th:nth-of-type(3) {
-    width: 10%;
-}
-table th:nth-of-type(4) {
-    width: 60%;
-}
-</style>
-
-| **Name** | **Title** | **Responsible Party** | **Notes** |
+| **Name** <img width=200/>| **Title** | **Responsible Party** | **Notes** |
 | --------------- | --- | --- | --- |
 | AC-2(1) | Automated System Account Management | Customer | Implemented on customer identity store. The customer must employ automated mechanisms to support the management of information system accounts used to access their Tanzu Application Platform installation. |
 | AC-2(2) | Removal of Temporary / Emergency Accounts | Customer | Implemented on customer identity store. If the customer chooses to use temporary or emergency accounts, they must ensure that the system automatically deactivates or removes the account following an organization-defined time period. |
