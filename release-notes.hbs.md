@@ -65,7 +65,7 @@ This error does not persist and subsequent builds automatically resolve this err
 Users can safely wait for the next build of their workloads, which is triggered
 by source code changes.
 To manually re-run builds, follow the instructions in the troubleshooting item
-[Builds fail after upgrading to Tanzu Application Platform v1.2](tanzu-build-service/troubleshooting.hbs.md#tbs-1-3-5-breaking-change).
+[Builds fail after upgrading to Tanzu Application Platform v1.3.5](tanzu-build-service/troubleshooting.hbs.md#tbs-1-3-5-breaking-change).
 
 ## <a id='1-3-4'></a> v1.3.4
 
