@@ -7,12 +7,10 @@ Tanzu Application Platform.
 
 ### Symptom
 
-After upgrading to Tanzu Application Platform v1.3.5, you see failing builds.
+When upgrading Tanzu Application Platform to v1.3.5, Tanzu Build Service image
+resources automatically run a build that fails when running on OpenShift.
 
 ### Explanation
-
-After the upgrade, Tanzu Build Service image resources automatically run a build
-that fails due to a missing dependency.
 
 This error does not persist and any subsequent builds will resolve this error.
 
