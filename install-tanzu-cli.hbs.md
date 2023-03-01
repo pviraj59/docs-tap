@@ -152,7 +152,7 @@ For Windows installation instructions, see [Install Tanzu CLI: Windows](#windows
     The outcome is similar to:
 
     ```console
-    version: v0.25.4
+    version: v0.25.0
     ...
     ```
 
