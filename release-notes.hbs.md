@@ -59,8 +59,9 @@ cause existing workloads to fail. After upgrading to v1.3, if you use the
 recreated with the correct tags.
 
 ---
+
 - When upgrading Tanzu Application Platform to v1.3.5, Tanzu Build Service image
-resources automatically run a build that fails due to an incorrect SCC.
+resources automatically run a build that fails when running on OpenShift.
 This error does not persist and subsequent builds automatically resolve this error.
 Users can safely wait for the next build of their workloads, which is triggered
 by source code changes.
