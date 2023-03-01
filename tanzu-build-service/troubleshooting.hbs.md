@@ -3,7 +3,7 @@
 This topic provides information to help troubleshoot Tanzu Build Service when used with
 Tanzu Application Platform.
 
-## <a id="tbs-1-2-breaking-change"></a> Builds fail after upgrading to Tanzu Application Platform v1.3.5
+## <a id="tbs-1-3-5-breaking-change"></a> Builds fail after upgrading to Tanzu Application Platform v1.3.5
 
 ### Symptom
 
