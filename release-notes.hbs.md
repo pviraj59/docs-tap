@@ -59,13 +59,6 @@ cause existing workloads to fail. After upgrading to v1.3, if you use the
 recreated with the correct tags.
 
 ---
-- When upgrading Tanzu Application Platform to v1.3.5, Tanzu Build Service image
-resources automatically run a build that fails due to a missing dependency.
-This error does not persist and subsequent builds automatically resolve this error.
-Users can safely wait for the next build of their workloads, which is triggered
-by source code changes.
-To manually re-run builds, follow the instructions in the troubleshooting item
-[Builds fail after upgrading to Tanzu Application Platform v1.2](tanzu-build-service/troubleshooting.hbs.md).
 
 ## <a id='1-3-4'></a> v1.3.4
 
